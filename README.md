@@ -1,7 +1,7 @@
 ### Hola soy Erick👋
+Me gusta hacer ejericio y la playa y los gatos
 
-<!--
-**Erickcm17/Erickcm17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
 
 Horario
 
