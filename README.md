@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola soy Erick👋
 
 <!--
 **Erickcm17/Erickcm17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+Horario
+
+| Hora | lunes       | Martes   | Miercoles  | Jueves      | Viernes     |
+|------|-------------|----------|------------|-------------|-------------|
+| 10pm | Matematicas | Biologia | Fisica     | Ingles      | MC          |
+| 12pm | Biologia    | Ingles   | EF         | Matematicas | Matematicas |
+| 1pm  | Historia    | CV       | MC         | Historia    | CV          |
+| 2pm  | Ingles      | CV       | Literatura | Biologia    | Historia    |
